@@ -1,0 +1,173 @@
+2022-05-14 21:05:279 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-14 21:05:58 INFO  LogInPage :53 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a292937e8fca6390ef8b31a5c700c77b)] -> xpath: //div[@class='master-wrapper-content']/div/div/div/div/h1]
+2022-05-14 22:05:826 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-14 22:05:727 INFO  LogInPage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (12c88c23a9b004e0f37c05e3013664e9)] -> xpath: //div[@class='master-wrapper-content']/div/div/div/div/h1]
+2022-05-14 22:05:600 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-14 22:05:980 INFO  LogInPage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (71c387d32a69133ae259be7311867da9)] -> xpath: //div[@class='master-wrapper-content']/div/div/div/div/h1]
+2022-05-15 10:05:949 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 10:05:914 INFO  LogInPage :58 - Getting text from : [[ChromeDriver: chrome on WINDOWS (96ac8f7bad3aad051acaccebd304b3f0)] -> xpath: //div[@class='master-wrapper-content']/div/div/div/div/h1]
+2022-05-15 10:05:13 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 10:05:818 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 12:05:370 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 12:05:216 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:121 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:127 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:457 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:338 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:898 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:542 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:39 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:910 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:614 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:370 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:396 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:445 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:675 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:431 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 13:05:486 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 14:05:778 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 14:05:822 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 14:05:637 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 14:05:844 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 14:05:250 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 14:05:250 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 14:05:232 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 14:05:27 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:444 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:638 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:838 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:564 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:721 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:175 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:368 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:186 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:227 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:34 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:917 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:326 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:228 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:323 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:818 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:645 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 15:05:906 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:62 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:489 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:93 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:756 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:310 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:573 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:257 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:62 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:816 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:525 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:120 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:118 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:390 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:905 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:629 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:231 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:357 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:975 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:513 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 16:05:717 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 17:05:511 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 17:05:602 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 17:05:642 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 17:05:451 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 17:05:513 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 17:05:236 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 18:05:847 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 18:05:546 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-15 18:05:708 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:258 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:276 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:161 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:779 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:143 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:868 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:796 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:630 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:520 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:461 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:877 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:936 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:395 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:72 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:831 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:110 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:684 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:362 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:666 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:522 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:77 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:357 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:956 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:667 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:381 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:729 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:54 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:974 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:783 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 10:05:228 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 11:05:207 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 11:05:941 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 11:05:332 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 11:05:283 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 11:05:849 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 11:05:803 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:771 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:802 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:437 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:431 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:304 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:809 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:01 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:912 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:934 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:223 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:827 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:302 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:457 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:119 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 12:05:877 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 13:05:345 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 13:05:936 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 13:05:986 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 13:05:70 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 13:05:787 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 13:05:490 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 13:05:931 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 13:05:969 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 13:05:206 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-16 13:05:849 INFO  BuildYourOwnComputerPage :62 - select processor Please select
+2.2 GHz Intel Pentium Dual-Core E2200
+2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]
+2022-05-17 17:05:327 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-17 17:05:31 INFO  HomePage :37 - click on login link: [[ChromeDriver: chrome on WINDOWS (45495ded25bcf96f1de47455e174a94f)] -> xpath: //a[@class='ico-login']]
+2022-05-17 17:05:519 INFO  LogInPage :57 - Getting text from : [[ChromeDriver: chrome on WINDOWS (45495ded25bcf96f1de47455e174a94f)] -> xpath: //div[@class='master-wrapper-content']/div/div/div/div/h1]
+2022-05-17 17:05:20 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-17 17:05:773 INFO  HomePage :37 - click on login link: [[ChromeDriver: chrome on WINDOWS (b83c0d6b97d2e5231128509000d7828a)] -> xpath: //a[@class='ico-login']]
+2022-05-17 17:05:272 INFO  LogInPage :41 - enter email ID : [[ChromeDriver: chrome on WINDOWS (b83c0d6b97d2e5231128509000d7828a)] -> id: Email]
+2022-05-17 17:05:378 INFO  LogInPage :46 - enter password : [[ChromeDriver: chrome on WINDOWS (b83c0d6b97d2e5231128509000d7828a)] -> id: Password]
+2022-05-17 17:05:470 INFO  LogInPage :51 - click on log in button : [[ChromeDriver: chrome on WINDOWS (b83c0d6b97d2e5231128509000d7828a)] -> xpath: //button[@class='button-1 login-button']]
+2022-05-17 17:05:945 INFO  HomePage :47 - click on logout button : Proxy element for: DefaultElementLocator 'By.xpath: //a[contains(text(),'Log out')]'
+2022-05-17 18:05:119 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-17 18:05:454 INFO  HomePage :42 - click on register link : [[ChromeDriver: chrome on WINDOWS (b9265c355302de614a00d954d21ae988)] -> xpath: //a[contains(text(),'Register')]]
+2022-05-17 18:05:62 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-17 18:05:469 INFO  HomePage :37 - click on login link: [[ChromeDriver: chrome on WINDOWS (d4a16486d6212a405f16a82e781d2e89)] -> xpath: //a[@class='ico-login']]
+2022-05-17 18:05:968 INFO  LogInPage :41 - enter email ID : [[ChromeDriver: chrome on WINDOWS (d4a16486d6212a405f16a82e781d2e89)] -> id: Email]
+2022-05-17 18:05:92 INFO  LogInPage :46 - enter password : [[ChromeDriver: chrome on WINDOWS (d4a16486d6212a405f16a82e781d2e89)] -> id: Password]
+2022-05-17 18:05:193 INFO  LogInPage :51 - click on log in button : [[ChromeDriver: chrome on WINDOWS (d4a16486d6212a405f16a82e781d2e89)] -> xpath: //button[@class='button-1 login-button']]
+2022-05-17 18:05:621 INFO  LogInPage :61 - verify error message : [[ChromeDriver: chrome on WINDOWS (d4a16486d6212a405f16a82e781d2e89)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2022-05-17 18:05:653 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-05-17 18:05:326 INFO  HomePage :42 - click on register link : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //a[contains(text(),'Register')]]
+2022-05-17 18:05:909 INFO  RegisterPage :102 - enter first name : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //input[@id='FirstName']]
+2022-05-17 18:05:20 INFO  RegisterPage :107 - enter last name : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //input[@id='LastName']]
+2022-05-17 18:05:110 INFO  RegisterPage :112 - select date : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //select[@name='DateOfBirthDay']]
+2022-05-17 18:05:212 INFO  RegisterPage :117 - select month : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //select[@name='DateOfBirthMonth']]
+2022-05-17 18:05:297 INFO  RegisterPage :122 - select year : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //select[@name='DateOfBirthYear']]
+2022-05-17 18:05:386 INFO  RegisterPage :128 - enter email id : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //input[@id='Email']]
+2022-05-17 18:05:507 INFO  RegisterPage :136 - enter password : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //input[@id='Password']]
+2022-05-17 18:05:611 INFO  RegisterPage :141 - enter confirm password : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //input[@id='ConfirmPassword']]
+2022-05-17 18:05:699 INFO  RegisterPage :153 - click on register button : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //button[@id='register-button']]
+2022-05-17 18:05:389 INFO  RegisterPage :146 - verify registration text : [[ChromeDriver: chrome on WINDOWS (1c9d1eb3d668b3a7a303795a7ede1c22)] -> xpath: //div[contains(text(),'Your registration completed')]]
